@@ -1,0 +1,9 @@
+div {    
+    background-color: yellow;    
+    background-clip: border-box;    
+    text-align: center;   
+    border:5px dotted blue;   
+}    
+h1,h2{  
+color: red;  
+} 
